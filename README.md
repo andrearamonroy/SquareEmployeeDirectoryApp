@@ -34,5 +34,10 @@ Therefore, next time I will spend less time understading unit tests, and more ti
 I would have liked to implement more unit tests. I wanted to implement a mockURLSession to test the EmployeeModelDataService and test the ViewModels. 
 However, I plan to continue learning and reading more about unit tests to be able to implement them in the future.
 
+##How long the project took you?
+I think it took me 5-6 hours to complete the project. However, I spent a lot of time researching about unit tests. 
+Therefore, now that I know more about unit tests and also with continuous learning I will get more familiar with unit tests, a simmilar project should take me less time to implement in the future. 
+
+
 ## Is there any other information you’d like us to know?
 I would like to implement more unit test for the project. However, I am proud of the unit test I did implement in this project. I managed my time in order to research and implement unit tests. I believe next time I am ask to implement unit tests I will be able to provide more test coverage in my projects. 
