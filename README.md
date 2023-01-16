@@ -9,13 +9,13 @@ Focused on iPhone development, tested with iOS 16.1 iPhone 14 pro, however, it s
 SwiftUI, Combine
 
 ## What areas of the app did you focus on?
-Implementing an MVVM architecture. 
-Implementing a generic data service.
-Caching images. 
-Handling erros.
-Returning an EmptyView() for malformed employees, and an empty employee list.
-Pull-down to refresh.
-Getting familiar with unit tests and implementing them.
+* Implementing an MVVM architecture. 
+* Implementing a generic data service.
+* Caching images. 
+* Handling erros.
+* Returning an EmptyView() for malformed employees, and an empty employee list.
+* Pull-down to refresh.
+* Getting familiar with unit tests and implementing them.
 
 I am particularly proud of the EmployeeModelDataService, the PhotoModelCacheManager, the EmployeePhotoViewModel, and learning and implementing unit tests.
 
