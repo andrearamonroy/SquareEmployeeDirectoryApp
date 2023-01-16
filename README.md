@@ -13,7 +13,7 @@ SwiftUI, Combine
 * Implementing a generic data service.
 * Caching images. 
 * Handling erros.
-* Returning an EmptyView() for malformed employees, and an empty employee list.
+* Returning an EmptyView() for malformed employees, and for an empty employee list.
 * Pull-down to refresh.
 * Getting familiar with unit tests and implementing them.
 
