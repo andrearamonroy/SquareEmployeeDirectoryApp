@@ -6,6 +6,7 @@ Xcode 14.2 Swift 5.
 Focused on iPhone development, tested with iOS 16.1 iPhone 14 pro, however, it supports older versions such as iPhone SE (3rd generation).
 
 ##Frameworks
+
 SwiftUI, Combine
 
 ## What areas of the app did you focus on?
